@@ -1,0 +1,1 @@
+Abra index.html. Para ver alteracoes na Vercel, publique esta nova versao: baixar ZIP nao atualiza a URL antiga.
